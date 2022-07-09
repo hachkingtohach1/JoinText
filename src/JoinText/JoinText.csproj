@@ -12,8 +12,4 @@
       <PackageReference Include="OpenMiNET.OpenAPI" Version="1.0.83" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="World\Generators" />
-    </ItemGroup>
-
 </Project>
