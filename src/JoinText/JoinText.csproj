@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageId>OpenMiNET.JoinText</PackageId>
+        <Version>0.0.0</Version>
+        <Authors>Hachkingtohach1</Authors>
+        <Description>A JoinText plugin from OpenAPI</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OpenMiNET.OpenAPI" Version="1.0.83" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="World\Generators" />
+    </ItemGroup>
+
+</Project>
